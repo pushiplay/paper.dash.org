@@ -1,7 +1,7 @@
-paper.dash.org
-JavaScript Client-Side Dash Wallet Generator
+paper.pushiplay.pw
+JavaScript Client-Side Pushi Wallet Generator
 
-Now Dash addresses and their corresponding private key can be conveniently 
+Now Pushi addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
 
@@ -36,10 +36,10 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The paper.dash.org project, software and embedded resources are
-copyright The Dash Developers.
+The paper.pushiplay.pw project, software and embedded resources are
+copyright The Pushi Developers.
 
-The paper.dash.org, Dash name and logo are not part of the open source
+The paper.pushiplay.pw, Pushi name and logo are not part of the open source
 license.
 
 The bitaddress.org project, software and embedded resources are
