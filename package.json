@@ -1,6 +1,6 @@
 {
   "name": "paper.pushiplay.pw",
-  "version": "3.1.0-pushi",
+  "version": "3.1.1-pushi",
   "sha256sum": "61e217ab73a1d74d6de316e8d513fbff8ab0275e9bcf7bf7fc5ac47deab6c21e",
   "description": "Open Source JavaScript Client-Side Pushi Wallet Generator",
   "main": "Gruntfile.js",
